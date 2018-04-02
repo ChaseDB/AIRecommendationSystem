@@ -56,3 +56,31 @@ http://www.omdbapi.com/
 REST API for games
 
 https://api.igdb.com/signup
+
+
+
+Elicitation Phase
+-------------------------------------------------------
+Questions - increment quantitative stats and add qualitative stats
+Sitations - increment quantitative stats and add qualitative stats
+Open-ended - analyze word frequency and associate words -(facts: FavoriteWord(Word).)
+
+At any point after X number of collected responses, user may stop test and go to 
+inference phase.
+
+Inference Phase
+-------------------------------------------------------
+Build facts from stats and word frequencies.
+Rules to infer more facts
+
+Recommendation Phase
+-------------------------------------------------------
+Use facts to query game,food,movie REST API
+Present to final page
+
+
+
+
+
+
+
