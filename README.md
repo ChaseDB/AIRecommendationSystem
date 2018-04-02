@@ -46,3 +46,13 @@ More on recommendation systems: http://infolab.stanford.edu/~ullman/mmds/ch9.pdf
 
 
 See updated version 
+
+
+REST API for movies 
+
+http://www.omdbapi.com/
+
+
+REST API for games
+
+https://api.igdb.com/signup
